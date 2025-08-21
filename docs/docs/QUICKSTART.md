@@ -1,1 +1,0 @@
-# 🚀 Federate CLI - Quickstart
